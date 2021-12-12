@@ -1,0 +1,11 @@
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('1', 'Inventario inicial', ' comienzo a las operaciones');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('2', 'Inventario final', 'generalmente al finalizar el periodo');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('3', 'Inventario perpetuo', 'continuo acuerdo con las existencias en el almacén');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('4', 'Inventario intermitent', 'se puede efectuar varias veces al año');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('5', 'Inventario físico', ' Es el inventario real');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('6', 'Inventario en proceso', 'existencias que se tienen a medida que se añade');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('7', 'Inventario máximo', 'se establece un nivel de inventario máximo.');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('8', 'Inventario mínimo', 'se establece un nivel de inventario máximo.');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('9', 'Inventario disponible', 'se encuentra disponible');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('10', 'Inventario en línea', 'guarda a ser procesado en la línea');
+INSERT INTO `sedes`.`tipo_inventario` (`Id_Tipo_Inventario`, `Nombre_Tipo_Inventario`, `Descripcion_Tipo_Inventario`) VALUES ('11', 'Inventario en cuarentena', ' debe de cumplir con un periodo de almacenamiento ');
